@@ -1,0 +1,262 @@
+[2022-07-24T18:53:12.515] [DEBUG] system - Load logger module
+[2022-07-24T18:53:13.324] [DEBUG] system - Load sleep module
+[2022-07-24T18:53:13.337] [INFO] system - =====Bot Status=====
+[2022-07-24T18:53:13.339] [INFO] system - Discord js Version: 13.1.0
+[2022-07-24T18:53:13.339] [INFO] system - Botバージョン: v7.3.1-stable
+[2022-07-24T18:53:13.340] [INFO] system - Repository: https://github.com/KuronekoServer/kuronekobot
+[2022-07-24T18:53:13.340] [INFO] system - ====================
+[2022-07-24T18:53:13.343] [INFO] system - 現在下記の機能が無効化されています(無効化されていない場合表示はされません): 
+[2022-07-24T18:53:13.344] [INFO] system - 機能の無効化一覧の取得に成功しました
+[2022-07-24T18:53:13.344] [INFO] system - =====System Status=====
+[2022-07-24T18:53:13.345] [INFO] system - OS情報: Windows_NT, Windows 10 Pro x64
+[2022-07-24T18:53:13.346] [INFO] system - 空きメモリ: 7352.67578125 MB
+[2022-07-24T18:53:13.347] [INFO] system - loadavg(windowsでは正しく表示されません): 0,0,0
+[2022-07-24T18:53:13.347] [INFO] system - =======================
+[2022-07-24T18:53:14.024] [INFO] system - mongodbの接続に成功しました
+[2022-07-24T18:53:14.025] [DEBUG] system - Connected to mongodb ... Done!
+[2022-07-24T18:54:44.350] [DEBUG] system - Load logger module
+[2022-07-24T18:54:45.427] [DEBUG] system - Load sleep module
+[2022-07-24T18:54:45.443] [INFO] system - =====Bot Status=====
+[2022-07-24T18:54:45.445] [INFO] system - Discord js Version: 13.1.0
+[2022-07-24T18:54:45.445] [INFO] system - Botバージョン: v7.3.1-stable
+[2022-07-24T18:54:45.446] [INFO] system - Repository: https://github.com/KuronekoServer/kuronekobot
+[2022-07-24T18:54:45.447] [INFO] system - ====================
+[2022-07-24T18:54:45.449] [INFO] system - 現在下記の機能が無効化されています(無効化されていない場合表示はされません): 
+[2022-07-24T18:54:45.452] [INFO] system - 機能の無効化一覧の取得に成功しました
+[2022-07-24T18:54:45.454] [INFO] system - =====System Status=====
+[2022-07-24T18:54:45.456] [INFO] system - OS情報: Windows_NT, Windows 10 Pro x64
+[2022-07-24T18:54:45.456] [INFO] system - 空きメモリ: 6306.22265625 MB
+[2022-07-24T18:54:45.458] [INFO] system - loadavg(windowsでは正しく表示されません): 0,0,0
+[2022-07-24T18:54:45.459] [INFO] system - =======================
+[2022-07-24T18:54:46.219] [INFO] system - mongodbの接続に成功しました
+[2022-07-24T18:54:46.220] [DEBUG] system - Connected to mongodb ... Done!
+[2022-07-24T18:57:09.234] [DEBUG] system - Load logger module
+[2022-07-24T18:57:10.762] [DEBUG] system - Load sleep module
+[2022-07-24T18:57:10.783] [INFO] system - =====Bot Status=====
+[2022-07-24T18:57:10.786] [INFO] system - Discord js Version: 13.1.0
+[2022-07-24T18:57:10.786] [INFO] system - Botバージョン: v7.3.1-stable
+[2022-07-24T18:57:10.787] [INFO] system - Repository: https://github.com/KuronekoServer/kuronekobot
+[2022-07-24T18:57:10.788] [INFO] system - ====================
+[2022-07-24T18:57:10.791] [INFO] system - 現在下記の機能が無効化されています(無効化されていない場合表示はされません): 
+[2022-07-24T18:57:10.792] [INFO] system - 機能の無効化一覧の取得に成功しました
+[2022-07-24T18:57:10.793] [INFO] system - =====System Status=====
+[2022-07-24T18:57:10.794] [INFO] system - OS情報: Windows_NT, Windows 10 Pro x64
+[2022-07-24T18:57:10.795] [INFO] system - 空きメモリ: 5797.21484375 MB
+[2022-07-24T18:57:10.796] [INFO] system - loadavg(windowsでは正しく表示されません): 0,0,0
+[2022-07-24T18:57:10.797] [INFO] system - =======================
+[2022-07-24T18:57:11.619] [INFO] system - mongodbの接続に成功しました
+[2022-07-24T18:57:11.620] [DEBUG] system - Connected to mongodb ... Done!
+[2022-07-24T19:00:26.422] [DEBUG] system - Load logger module
+[2022-07-24T19:00:27.168] [DEBUG] system - Load sleep module
+[2022-07-24T19:00:27.183] [INFO] system - =====Bot Status=====
+[2022-07-24T19:00:27.185] [INFO] system - Discord js Version: 13.1.0
+[2022-07-24T19:00:27.186] [INFO] system - Botバージョン: v7.3.1-stable
+[2022-07-24T19:00:27.186] [INFO] system - Repository: https://github.com/KuronekoServer/kuronekobot
+[2022-07-24T19:00:27.186] [INFO] system - ====================
+[2022-07-24T19:00:27.188] [INFO] system - 現在下記の機能が無効化されています(無効化されていない場合表示はされません): 
+[2022-07-24T19:00:27.189] [INFO] system - 機能の無効化一覧の取得に成功しました
+[2022-07-24T19:00:27.189] [INFO] system - =====System Status=====
+[2022-07-24T19:00:27.190] [INFO] system - OS情報: Windows_NT, Windows 10 Pro x64
+[2022-07-24T19:00:27.190] [INFO] system - 空きメモリ: 6744.953125 MB
+[2022-07-24T19:00:27.191] [INFO] system - loadavg(windowsでは正しく表示されません): 0,0,0
+[2022-07-24T19:00:27.191] [INFO] system - =======================
+[2022-07-24T19:00:50.831] [DEBUG] system - Load logger module
+[2022-07-24T19:00:51.621] [DEBUG] system - Load sleep module
+[2022-07-24T19:00:51.640] [INFO] system - =====Bot Status=====
+[2022-07-24T19:00:51.643] [INFO] system - Discord js Version: 13.1.0
+[2022-07-24T19:00:51.644] [INFO] system - Botバージョン: v7.3.1-stable
+[2022-07-24T19:00:51.645] [INFO] system - Repository: https://github.com/KuronekoServer/kuronekobot
+[2022-07-24T19:00:51.646] [INFO] system - ====================
+[2022-07-24T19:00:51.649] [INFO] system - 現在下記の機能が無効化されています(無効化されていない場合表示はされません): 
+[2022-07-24T19:00:51.651] [INFO] system - 機能の無効化一覧の取得に成功しました
+[2022-07-24T19:00:51.652] [INFO] system - =====System Status=====
+[2022-07-24T19:00:51.653] [INFO] system - OS情報: Windows_NT, Windows 10 Pro x64
+[2022-07-24T19:00:51.653] [INFO] system - 空きメモリ: 6764.84375 MB
+[2022-07-24T19:00:51.654] [INFO] system - loadavg(windowsでは正しく表示されません): 0,0,0
+[2022-07-24T19:00:51.654] [INFO] system - =======================
+[2022-07-24T19:01:34.672] [DEBUG] system - Load logger module
+[2022-07-24T19:01:35.499] [DEBUG] system - Load sleep module
+[2022-07-24T19:01:35.512] [INFO] system - =====Bot Status=====
+[2022-07-24T19:01:35.514] [INFO] system - Discord js Version: 13.1.0
+[2022-07-24T19:01:35.515] [INFO] system - Botバージョン: v7.3.1-stable
+[2022-07-24T19:01:35.516] [INFO] system - Repository: https://github.com/KuronekoServer/kuronekobot
+[2022-07-24T19:01:35.516] [INFO] system - ====================
+[2022-07-24T19:01:35.520] [INFO] system - 現在下記の機能が無効化されています(無効化されていない場合表示はされません): 
+[2022-07-24T19:01:35.521] [INFO] system - 機能の無効化一覧の取得に成功しました
+[2022-07-24T19:01:35.522] [INFO] system - =====System Status=====
+[2022-07-24T19:01:35.523] [INFO] system - OS情報: Windows_NT, Windows 10 Pro x64
+[2022-07-24T19:01:35.523] [INFO] system - 空きメモリ: 6715.01171875 MB
+[2022-07-24T19:01:35.524] [INFO] system - loadavg(windowsでは正しく表示されません): 0,0,0
+[2022-07-24T19:01:35.525] [INFO] system - =======================
+[2022-07-24T19:02:21.700] [DEBUG] system - Load logger module
+[2022-07-24T19:02:22.506] [DEBUG] system - Load sleep module
+[2022-07-24T19:02:22.517] [INFO] system - =====Bot Status=====
+[2022-07-24T19:02:22.518] [INFO] system - Discord js Version: 13.1.0
+[2022-07-24T19:02:22.519] [INFO] system - Botバージョン: v7.3.1-stable
+[2022-07-24T19:02:22.519] [INFO] system - Repository: https://github.com/KuronekoServer/kuronekobot
+[2022-07-24T19:02:22.520] [INFO] system - ====================
+[2022-07-24T19:02:22.522] [INFO] system - 現在下記の機能が無効化されています(無効化されていない場合表示はされません): 
+[2022-07-24T19:02:22.523] [INFO] system - 機能の無効化一覧の取得に成功しました
+[2022-07-24T19:02:22.524] [INFO] system - =====System Status=====
+[2022-07-24T19:02:22.525] [INFO] system - OS情報: Windows_NT, Windows 10 Pro x64
+[2022-07-24T19:02:22.525] [INFO] system - 空きメモリ: 6590.0546875 MB
+[2022-07-24T19:02:22.526] [INFO] system - loadavg(windowsでは正しく表示されません): 0,0,0
+[2022-07-24T19:02:22.526] [INFO] system - =======================
+[2022-07-24T19:03:27.534] [DEBUG] system - Load logger module
+[2022-07-24T19:03:28.369] [DEBUG] system - Load sleep module
+[2022-07-24T19:03:28.380] [INFO] system - =====Bot Status=====
+[2022-07-24T19:03:28.381] [INFO] system - Discord js Version: 13.1.0
+[2022-07-24T19:03:28.381] [INFO] system - Botバージョン: v7.3.1-stable
+[2022-07-24T19:03:28.382] [INFO] system - Repository: https://github.com/KuronekoServer/kuronekobot
+[2022-07-24T19:03:28.382] [INFO] system - ====================
+[2022-07-24T19:03:28.384] [INFO] system - 現在下記の機能が無効化されています(無効化されていない場合表示はされません): 
+[2022-07-24T19:03:28.385] [INFO] system - 機能の無効化一覧の取得に成功しました
+[2022-07-24T19:03:28.386] [INFO] system - =====System Status=====
+[2022-07-24T19:03:28.386] [INFO] system - OS情報: Windows_NT, Windows 10 Pro x64
+[2022-07-24T19:03:28.386] [INFO] system - 空きメモリ: 6557.9765625 MB
+[2022-07-24T19:03:28.387] [INFO] system - loadavg(windowsでは正しく表示されません): 0,0,0
+[2022-07-24T19:03:28.387] [INFO] system - =======================
+[2022-07-24T19:04:02.628] [DEBUG] system - Load logger module
+[2022-07-24T19:04:03.385] [DEBUG] system - Load sleep module
+[2022-07-24T19:04:03.395] [INFO] system - =====Bot Status=====
+[2022-07-24T19:04:03.396] [INFO] system - Discord js Version: 13.1.0
+[2022-07-24T19:04:03.397] [INFO] system - Botバージョン: v7.3.1-stable
+[2022-07-24T19:04:03.399] [INFO] system - Repository: https://github.com/KuronekoServer/kuronekobot
+[2022-07-24T19:04:03.399] [INFO] system - ====================
+[2022-07-24T19:04:03.404] [INFO] system - 現在下記の機能が無効化されています(無効化されていない場合表示はされません): 
+[2022-07-24T19:04:03.405] [INFO] system - 機能の無効化一覧の取得に成功しました
+[2022-07-24T19:04:03.407] [INFO] system - =====System Status=====
+[2022-07-24T19:04:03.408] [INFO] system - OS情報: Windows_NT, Windows 10 Pro x64
+[2022-07-24T19:04:03.409] [INFO] system - 空きメモリ: 6548.40625 MB
+[2022-07-24T19:04:03.411] [INFO] system - loadavg(windowsでは正しく表示されません): 0,0,0
+[2022-07-24T19:04:03.411] [INFO] system - =======================
+[2022-07-24T19:04:03.681] [INFO] system - mongodbの接続に成功しました
+[2022-07-24T19:04:03.682] [DEBUG] system - Connected to mongodb ... Done!
+[2022-07-24T19:06:49.187] [DEBUG] system - Load logger module
+[2022-07-24T19:06:49.919] [DEBUG] system - Load sleep module
+[2022-07-24T19:06:49.932] [INFO] system - =====Bot Status=====
+[2022-07-24T19:06:49.933] [INFO] system - Discord js Version: 13.1.0
+[2022-07-24T19:06:49.934] [INFO] system - Botバージョン: v7.3.1-stable
+[2022-07-24T19:06:49.935] [INFO] system - Repository: https://github.com/KuronekoServer/kuronekobot
+[2022-07-24T19:06:49.935] [INFO] system - ====================
+[2022-07-24T19:06:49.937] [INFO] system - 現在下記の機能が無効化されています(無効化されていない場合表示はされません): 
+[2022-07-24T19:06:49.938] [INFO] system - 機能の無効化一覧の取得に成功しました
+[2022-07-24T19:06:49.939] [INFO] system - =====System Status=====
+[2022-07-24T19:06:49.940] [INFO] system - OS情報: Windows_NT, Windows 10 Pro x64
+[2022-07-24T19:06:49.940] [INFO] system - 空きメモリ: 6476.7890625 MB
+[2022-07-24T19:06:49.941] [INFO] system - loadavg(windowsでは正しく表示されません): 0,0,0
+[2022-07-24T19:06:49.942] [INFO] system - =======================
+[2022-07-24T19:06:50.607] [INFO] system - mongodbの接続に成功しました
+[2022-07-24T19:06:50.608] [DEBUG] system - Connected to mongodb ... Done!
+[2022-07-24T19:11:39.127] [DEBUG] system - Load logger module
+[2022-07-24T19:11:40.072] [DEBUG] system - Load sleep module
+[2022-07-24T19:11:40.086] [INFO] system - =====Bot Status=====
+[2022-07-24T19:11:40.087] [INFO] system - Discord js Version: 13.1.0
+[2022-07-24T19:11:40.088] [INFO] system - Botバージョン: v7.3.1-stable
+[2022-07-24T19:11:40.088] [INFO] system - Repository: https://github.com/KuronekoServer/kuronekobot
+[2022-07-24T19:11:40.089] [INFO] system - ====================
+[2022-07-24T19:11:40.091] [INFO] system - 現在下記の機能が無効化されています(無効化されていない場合表示はされません): 
+[2022-07-24T19:11:40.091] [INFO] system - 機能の無効化一覧の取得に成功しました
+[2022-07-24T19:11:40.092] [INFO] system - =====System Status=====
+[2022-07-24T19:11:40.093] [INFO] system - OS情報: Windows_NT, Windows 10 Pro x64
+[2022-07-24T19:11:40.093] [INFO] system - 空きメモリ: 6233.421875 MB
+[2022-07-24T19:11:40.094] [INFO] system - loadavg(windowsでは正しく表示されません): 0,0,0
+[2022-07-24T19:11:40.094] [INFO] system - =======================
+[2022-07-24T19:11:40.919] [INFO] system - mongodbの接続に成功しました
+[2022-07-24T19:11:40.920] [DEBUG] system - Connected to mongodb ... Done!
+[2022-07-24T19:13:51.851] [DEBUG] system - Load logger module
+[2022-07-24T19:13:52.834] [DEBUG] system - Load sleep module
+[2022-07-24T19:13:52.854] [INFO] system - =====Bot Status=====
+[2022-07-24T19:13:52.858] [INFO] system - Discord js Version: 13.1.0
+[2022-07-24T19:13:52.859] [INFO] system - Botバージョン: v7.3.1-stable
+[2022-07-24T19:13:52.861] [INFO] system - Repository: https://github.com/KuronekoServer/kuronekobot
+[2022-07-24T19:13:52.862] [INFO] system - ====================
+[2022-07-24T19:13:52.865] [INFO] system - 現在下記の機能が無効化されています(無効化されていない場合表示はされません): 
+[2022-07-24T19:13:52.866] [INFO] system - 機能の無効化一覧の取得に成功しました
+[2022-07-24T19:13:52.868] [INFO] system - =====System Status=====
+[2022-07-24T19:13:52.870] [INFO] system - OS情報: Windows_NT, Windows 10 Pro x64
+[2022-07-24T19:13:52.872] [INFO] system - 空きメモリ: 6451.8359375 MB
+[2022-07-24T19:13:52.874] [INFO] system - loadavg(windowsでは正しく表示されません): 0,0,0
+[2022-07-24T19:13:52.876] [INFO] system - =======================
+[2022-07-24T19:13:53.591] [INFO] system - mongodbの接続に成功しました
+[2022-07-24T19:13:53.592] [DEBUG] system - Connected to mongodb ... Done!
+[2022-07-24T19:14:56.569] [DEBUG] system - Load logger module
+[2022-07-24T19:14:57.285] [DEBUG] system - Load sleep module
+[2022-07-24T19:14:57.295] [INFO] system - =====Bot Status=====
+[2022-07-24T19:14:57.298] [INFO] system - Discord js Version: 13.1.0
+[2022-07-24T19:14:57.300] [INFO] system - Botバージョン: v7.3.1-stable
+[2022-07-24T19:14:57.301] [INFO] system - Repository: https://github.com/KuronekoServer/kuronekobot
+[2022-07-24T19:14:57.302] [INFO] system - ====================
+[2022-07-24T19:14:57.304] [INFO] system - 現在下記の機能が無効化されています(無効化されていない場合表示はされません): 
+[2022-07-24T19:14:57.305] [INFO] system - 機能の無効化一覧の取得に成功しました
+[2022-07-24T19:14:57.306] [INFO] system - =====System Status=====
+[2022-07-24T19:14:57.306] [INFO] system - OS情報: Windows_NT, Windows 10 Pro x64
+[2022-07-24T19:14:57.307] [INFO] system - 空きメモリ: 6549.5390625 MB
+[2022-07-24T19:14:57.307] [INFO] system - loadavg(windowsでは正しく表示されません): 0,0,0
+[2022-07-24T19:14:57.308] [INFO] system - =======================
+[2022-07-24T19:14:58.006] [INFO] system - mongodbの接続に成功しました
+[2022-07-24T19:14:58.008] [DEBUG] system - Connected to mongodb ... Done!
+[2022-07-24T19:39:15.019] [DEBUG] system - Load logger module
+[2022-07-24T19:39:15.997] [DEBUG] system - Load sleep module
+[2022-07-24T19:39:16.013] [INFO] system - =====Bot Status=====
+[2022-07-24T19:39:16.015] [INFO] system - Discord js Version: 13.1.0
+[2022-07-24T19:39:16.015] [INFO] system - Botバージョン: v7.3.1-stable
+[2022-07-24T19:39:16.016] [INFO] system - Repository: https://github.com/KuronekoServer/kuronekobot
+[2022-07-24T19:39:16.017] [INFO] system - ====================
+[2022-07-24T19:39:16.020] [INFO] system - 現在下記の機能が無効化されています(無効化されていない場合表示はされません): 
+[2022-07-24T19:39:16.021] [INFO] system - 機能の無効化一覧の取得に成功しました
+[2022-07-24T19:39:16.022] [INFO] system - =====System Status=====
+[2022-07-24T19:39:16.022] [INFO] system - OS情報: Windows_NT, Windows 10 Pro x64
+[2022-07-24T19:39:16.023] [INFO] system - 空きメモリ: 6677.515625 MB
+[2022-07-24T19:39:16.024] [INFO] system - loadavg(windowsでは正しく表示されません): 0,0,0
+[2022-07-24T19:39:16.024] [INFO] system - =======================
+[2022-07-24T19:39:16.663] [INFO] system - mongodbの接続に成功しました
+[2022-07-24T19:39:16.664] [DEBUG] system - Connected to mongodb ... Done!
+[2022-07-24T19:39:28.458] [DEBUG] system - Load logger module
+[2022-07-24T19:39:29.191] [DEBUG] system - Load sleep module
+[2022-07-24T19:39:29.203] [INFO] system - =====Bot Status=====
+[2022-07-24T19:39:29.204] [INFO] system - Discord js Version: 13.1.0
+[2022-07-24T19:39:29.204] [INFO] system - Botバージョン: v7.3.1-stable
+[2022-07-24T19:39:29.205] [INFO] system - Repository: https://github.com/KuronekoServer/kuronekobot
+[2022-07-24T19:39:29.205] [INFO] system - ====================
+[2022-07-24T19:39:29.207] [INFO] system - 現在下記の機能が無効化されています(無効化されていない場合表示はされません): 
+[2022-07-24T19:39:29.208] [INFO] system - 機能の無効化一覧の取得に成功しました
+[2022-07-24T19:39:29.209] [INFO] system - =====System Status=====
+[2022-07-24T19:39:29.209] [INFO] system - OS情報: Windows_NT, Windows 10 Pro x64
+[2022-07-24T19:39:29.209] [INFO] system - 空きメモリ: 6660.55859375 MB
+[2022-07-24T19:39:29.210] [INFO] system - loadavg(windowsでは正しく表示されません): 0,0,0
+[2022-07-24T19:39:29.210] [INFO] system - =======================
+[2022-07-24T19:39:29.837] [INFO] system - mongodbの接続に成功しました
+[2022-07-24T19:39:29.838] [DEBUG] system - Connected to mongodb ... Done!
+[2022-07-24T19:40:29.559] [DEBUG] system - Load logger module
+[2022-07-24T19:40:30.501] [DEBUG] system - Load sleep module
+[2022-07-24T19:40:30.515] [INFO] system - =====Bot Status=====
+[2022-07-24T19:40:30.517] [INFO] system - Discord js Version: 13.1.0
+[2022-07-24T19:40:30.517] [INFO] system - Botバージョン: v7.3.1-stable
+[2022-07-24T19:40:30.518] [INFO] system - Repository: https://github.com/KuronekoServer/kuronekobot
+[2022-07-24T19:40:30.519] [INFO] system - ====================
+[2022-07-24T19:40:30.521] [INFO] system - 現在下記の機能が無効化されています(無効化されていない場合表示はされません): 
+[2022-07-24T19:40:30.521] [INFO] system - 機能の無効化一覧の取得に成功しました
+[2022-07-24T19:40:30.522] [INFO] system - =====System Status=====
+[2022-07-24T19:40:30.523] [INFO] system - OS情報: Windows_NT, Windows 10 Pro x64
+[2022-07-24T19:40:30.523] [INFO] system - 空きメモリ: 6458.98828125 MB
+[2022-07-24T19:40:30.524] [INFO] system - loadavg(windowsでは正しく表示されません): 0,0,0
+[2022-07-24T19:40:30.524] [INFO] system - =======================
+[2022-07-24T19:40:31.158] [INFO] system - mongodbの接続に成功しました
+[2022-07-24T19:40:31.159] [DEBUG] system - Connected to mongodb ... Done!
+[2022-07-24T19:43:18.013] [DEBUG] system - Load logger module
+[2022-07-24T19:43:18.740] [DEBUG] system - Load sleep module
+[2022-07-24T19:43:18.754] [INFO] system - =====Bot Status=====
+[2022-07-24T19:43:18.755] [INFO] system - Discord js Version: 13.1.0
+[2022-07-24T19:43:18.756] [INFO] system - Botバージョン: v7.3.1-stable
+[2022-07-24T19:43:18.757] [INFO] system - Repository: https://github.com/KuronekoServer/kuronekobot
+[2022-07-24T19:43:18.758] [INFO] system - ====================
+[2022-07-24T19:43:18.760] [INFO] system - 現在下記の機能が無効化されています(無効化されていない場合表示はされません): 
+[2022-07-24T19:43:18.761] [INFO] system - 機能の無効化一覧の取得に成功しました
+[2022-07-24T19:43:18.762] [INFO] system - =====System Status=====
+[2022-07-24T19:43:18.763] [INFO] system - OS情報: Windows_NT, Windows 10 Pro x64
+[2022-07-24T19:43:18.763] [INFO] system - 空きメモリ: 6545.75390625 MB
+[2022-07-24T19:43:18.764] [INFO] system - loadavg(windowsでは正しく表示されません): 0,0,0
+[2022-07-24T19:43:18.765] [INFO] system - =======================
+[2022-07-24T19:43:19.428] [INFO] system - mongodbの接続に成功しました
+[2022-07-24T19:43:19.429] [DEBUG] system - Connected to mongodb ... Done!
